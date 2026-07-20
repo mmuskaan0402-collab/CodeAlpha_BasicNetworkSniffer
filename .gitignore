@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+captured_packets.csv
+captured_packets.pcap
+
+.vscode/
+.idea/
